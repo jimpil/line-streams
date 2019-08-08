@@ -1,6 +1,6 @@
 # line-streams
 
-A Clojure library designed to ... well, that part is up to you.
+CODE MIGRATED INTO [clambda](https://github.com/jimpil/clambda).  
 
 ## Usage
 
